@@ -8,3 +8,5 @@ What I learned during development:
 -	How to pass data from and to a different tab in the app
 -	How to create a bottom tab list that shows different tabs the user can press
 -	How to divide the app in smaller portions for easier reading and understanding of the app
+
+<img src="https://user-images.githubusercontent.com/81863134/228598709-56676487-b136-4225-9260-b8e4351f57d9.png" width="197"> <img src="https://user-images.githubusercontent.com/81863134/228598832-5540e7ea-f55e-4636-8d7e-091ce5f862ee.png" width="197"> <img src="https://user-images.githubusercontent.com/81863134/228598936-b05a103b-8db6-44af-8081-1acfe52b3c1f.png" width="197"> <img src="https://user-images.githubusercontent.com/81863134/228599010-2f55f53f-1373-4d5e-bb17-551b548be05a.png" width="197"><img src="https://user-images.githubusercontent.com/81863134/228599085-eb90e810-8f2e-4fd5-aa89-c714f8880722.png" width="197"> <img src="https://user-images.githubusercontent.com/81863134/228599249-b591ad68-a335-43b5-afd2-a6a848fafd4d.png" width="197">
